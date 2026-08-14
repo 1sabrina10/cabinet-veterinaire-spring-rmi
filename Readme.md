@@ -44,4 +44,3 @@ cd Common
 mvn clean install
 
 
-**Auteur : Sabrina Moufok**
