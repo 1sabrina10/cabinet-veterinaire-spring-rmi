@@ -1,4 +1,4 @@
-# TP RMI : Cabinet Vétérinaire avec Spring Boot et RMI
+# Cabinet Vétérinaire avec Spring Boot et RMI
 
 **Auteur : Sabrina Moufok**
 
