@@ -1,7 +1,5 @@
 # Cabinet Vétérinaire avec Spring Boot et RMI
 
-**Auteur : Sabrina Moufok**
-
 ## Description
 
 Ce projet implémente un **cabinet vétérinaire virtuel** permettant la gestion centralisée des animaux et de leurs dossiers médicaux.
@@ -44,3 +42,6 @@ Le projet est composé de trois modules :
 ```bash
 cd Common
 mvn clean install
+
+
+**Auteur : Sabrina Moufok**
